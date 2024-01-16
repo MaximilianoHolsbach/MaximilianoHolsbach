@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaximilianoHolsbach
-- 👀 I’m interested in Artificial inteligence
-- 🌱 I’m currently learning Python and frameworks to work on backend
-- 💞️ I’m looking to collaborate on projects related on machine learning
+- 👀 I’m interested in backend develope
+- 🌱 I’m currently learning java script and frameworks to work on backend
+- 💞️ I’m looking to enhance my knowledge of JavaScript and its applications."
 - 📫 How to reach me ...
 
 <!---
